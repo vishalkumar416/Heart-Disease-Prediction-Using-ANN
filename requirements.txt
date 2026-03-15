@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+shap
+reportlab
+protobuf
+h5py
+pillow
